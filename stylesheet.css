@@ -1,3 +1,41 @@
+body {
+	background-color: #585858;
+}
+
+#main-wrapper {
+	width:960px;
+	margin: 0 auto;
+	background-image: url(http://p1.pichost.me/i/31/1546602.jpg)
+}
+
+header {
+  
+	height: 260px;
+}
+
+#main-content {
+	background-image: url(http://p1.pichost.me/i/31/1546602.jpg)
+	float: left;
+	width: 660px;
+}
+
+aside {
+	width:259px;
+	background: #e5e5e5;
+	float: right;
+	height: 0px;
+}
+
+footer {
+  margin: 0 auto;
+	clear:both;
+	height:50px;
+}
+
+img {
+  border-radius:15px;
+  float: right;
+}
 p {
     color: #EBDDE2;
 }
@@ -7,26 +45,8 @@ li {
     font-size: 15px;
 }
 
-#header {
-	position: auto;
-	top: 0px;
-	bottom: 460px;
-	background-color: #3c4543;
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
-	border-bottom-right-radius: 15px;
-	border-bottom-left-radius:15px;
+style info {
+  display: block;
+  width:130px;
+  height:100px;
 }
-
-img {
-    float:right;
-    border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
-	border-bottom-right-radius: 15px;
-	border-bottom-left-radius:15px;
-}
-
-#info li {
-   display: block;
-   position:right;
-  }
